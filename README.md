@@ -34,3 +34,6 @@ server starts running
 2) In terminal type command: npm start
 
 Dashboard starts running
+
+
+requirements.txt [imp]
