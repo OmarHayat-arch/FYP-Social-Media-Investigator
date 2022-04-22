@@ -1,0 +1,99 @@
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+REACT:
+
+Step 1: Install Node.js installer for windows. Click on this link. Here install the LTS version (the one present on the left). Once downloaded open NodeJS without disturbing other settings, click on the Next button until it’s completely installed.
+
+Step 2: Open command prompt  to check whether it is completely installed or not type the command –> node -v
+
+Step 3: Now in the terminal run the below command: npm install -g create-react-app  
+
+Step 4:Now Create a new folder where you want to make your react app using the below command: mkdir newfolder
+
+Move inside the same folder using the below command:
+
+cd newfolder (your folder name)
+
+Step 5: Now inside this folder run the command –> create -react -app  reactfirst YOUR_APP_NAME
+
+It will take some time to install the required dependencies
+
+Step 6: Now open the IDE of your choice for eg.  Visual studio code and open the folder where you have installed the react app newolder (in the above example)  inside the folder you will see your app’s name reactapp (In our example). Use the terminal and move inside your app name folder.Use command  cd reactapp (your app name)
+
+Step 7: To start your app run the below command : npm start
+
+Once you run the above command a new tab will open in your browser showing React logo
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+MongoDB:
+
+step 1: Download the installer.
+
+step 2: Run the MongoDB installer.
+
+step 3: Follow the MongoDB Community Edition installation wizard.
+
+step 4: Install mongosh
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Python
+
+Step 1 − Select Version of Python to Install.
+
+Step 2 − Download Python Executable Installer.
+
+Step 3 − Run Executable Installer.
+
+Step 4 − Verify Python is installed on Windows.
+
+Step 5 − Verify Pip was installed.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+VS Notebook
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Flask
+
+Step 1: Install Virtual Environment. Install Flask in a virtual environment to avoid problems with conflicting libraries.
+
+Step 2: Create an Environment. Make a separate directory for your project: mkdir <project name>
+
+Step 3: Activate the Environment. 
+
+Step 4: Install Flask. 
+
+Step 5: Test the Development Environment.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Kendo(React)
+
+To install Kendo UI for jQuery widgets, you can use the available Kendo UI CDN services which are hosted on Amazon CloudFront.
+
+		OR
+
+Another approach to install Kendo UI is by accessing the Node Package Manager (NPM) JavaScript package manager and downloading the available Kendo UI packages on NPM.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Material UI (React)
+
+MUI is available as an npm package.
+
+NPM:
+
+To install and save in your package.json dependencies, run:
+
+// with npm
+npm install @mui/material @emotion/react @emotion/styled
+
+// with yarn
+yarn add @mui/material @emotion/react @emotion/styled
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Tweepy (Python)
+
+step 01: open command prompt and type "cd desktop" then "cd tweepy"
+
+step 02: type "python setup.py install"
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
