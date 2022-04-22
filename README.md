@@ -13,6 +13,17 @@ social media platforms by analysing the trends. Information will be analysed, in
 reports will be generated and steps will be taken to counter the misinformation.
 
 
+## Features
+
+1) Browse Trends
+2) Search Trends
+3) Sentiment Analysis of Trend (English / Urdu)
+4) Analyse Trends
+5) Detecting Bots
+6) Detecting Geolocation
+7) Countering Trends
+
+
 ## Tools Used
 
 1) MongoDb, Python, ActiveReports, React.
@@ -35,4 +46,6 @@ server starts running
 
 Dashboard starts running
 
-Note: To install the setup on your Machine, install the tools listed in requirements.txt
+###### Note
+
+To install the setup on your Machine, install the tools listed in requirements.txt
