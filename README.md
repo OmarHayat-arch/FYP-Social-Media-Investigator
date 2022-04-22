@@ -46,6 +46,6 @@ server starts running
 
 Dashboard starts running
 
-#### Note
+### Note:
 
 To install the setup on your Machine, install the tools listed in requirements.txt
