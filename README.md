@@ -23,8 +23,8 @@ reports will be generated and steps will be taken to counter the misinformation.
 
 #### Starting Server:
 
-1) Open FYP_API folder on VS code
-2) In terminal type command: python src/app.py
+1) Open FYP_API.ipynb(available in FYP-2_API Folder) 
+2) Execute each cell and server starts running
 
 server starts running
 
