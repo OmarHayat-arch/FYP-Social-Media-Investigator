@@ -35,5 +35,4 @@ server starts running
 
 Dashboard starts running
 
-
-requirements.txt [imp]
+Note: To install the setup on your Machine, install the tools listed in requirements.txt
